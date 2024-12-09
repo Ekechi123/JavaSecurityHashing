@@ -1,5 +1,3 @@
-package security;
-
 public enum HashAlgorithm {
     MD5("MD5"),
     SHA1("SHA-1"),
