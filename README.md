@@ -13,4 +13,5 @@ The utility includes features for hashing, verifying hashes, and creating salted
 
 ## How to Use
 ### Clone the Repository
-bash
+https://github.com/Ekechi123/JavaSecurityHashing.git
+
